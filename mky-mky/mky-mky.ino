@@ -1,11 +1,16 @@
 /*
 
-This is the code for the makey makey clone, that works with the chip RP2040.
-You need to use this core to use it as a keyboard:
+Arduino code for a clone of the makey makey with a RP2040
+
+This the code is situable for a makey makey clone, that works with the chip RP2040. To upload with the Arduino IDE, 
+you will need to use this core:
+
 https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
 
-The code's been modified and works with the educational breakout-board created by Rodolfo Acosta Castro 
-for the workshop "Into the Circuit" @ HfS, Berlin. October 2024
+The code's been modified and works with the educational breakout-board created by 
+Rodolfo Acosta Castro for the workshop "Into the Circuit" @ HfS, Berlin. October 2024
+
+Credits:
 
 Credits:
  ************** MAKEY MAKEY *********************
