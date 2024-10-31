@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "ABM8-272-T3_C20625731")(type "KiCad")(uri "${KIPRJMOD}/Project_footprints/JLC2KiCad_lib/symbol/ABM8-272-T3_C20625731.kicad_sym")(options "")(descr ""))
-  (lib (name "WS2812B_5050")(type "KiCad")(uri "${KIPRJMOD}/Project_footprints/JLC2KiCad_lib/symbol/WS2812B_5050.kicad_sym")(options "")(descr ""))
-)
