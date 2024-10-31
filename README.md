@@ -2,6 +2,8 @@
 
 ## Arduino Code
 
+updated code after first workshop with minor improvements and better comments :)! 
+
 This the code is situable for a makey makey that works with the chip RP2040.
 
 To upload with the Arduino IDE, you will need to use this board definition(!):
