@@ -1,5 +1,8 @@
 # A mky-mky clone for an RP2040 custom board
 
+![parasit](https://github.com/user-attachments/assets/b877a5a7-0f1b-4113-94cd-acbd0d62eb89)
+
+
 ## Arduino Code
 
 updated code after first workshop with minor improvements and better comments :)! 
