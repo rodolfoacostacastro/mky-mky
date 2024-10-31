@@ -32,5 +32,5 @@ They were created using KiCad 8.0
 
 ## Fabrication Files
 
-if you want to order the pcbs yourself you find all the needed files also
+if you want to order the pcbs yourself you find all the needed files here
 
