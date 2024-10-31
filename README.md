@@ -1,5 +1,7 @@
 # A mky-mky clone for an RP2040 custom board
 
+## Arduino Code
+
 This the code is situable for a makey makey that works with the chip RP2040.
 
 To upload with the Arduino IDE, you will need to use this board definition(!):
@@ -20,3 +22,13 @@ Credits:
  by: Eric Rosenbaum, Jay Silver, and Jim Lindblom
  MIT Media Lab & Sparkfun
  release: 7/5/2012
+
+## KiCad Files 
+
+you find in this repository the KiCad Project files of the RP2040 Board and the Keyboard extension.
+They were created using KiCad 8.0
+
+## Fabrication Files
+
+if you want to order the pcbs yourself you find all the needed files also
+
