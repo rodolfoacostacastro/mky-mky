@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+Conn1,mky_mky_boardPads,1,~,
+GDN_pads1,mky_mky_complete_GND,1,Conn_01x11_Pin,
+"R1, R2, R3, R4, R5, R6, R7",0402,7,10M,
+TH_externPads1,mky_mky_externPads,1,Conn_01x07_Pin,
